@@ -28,12 +28,12 @@ trailer : .xmas_5
 
 vehicle_accessory: .data
 {
-	data_path: "/def/vehicle/trailer_owned/scs.box/data.sii"
+	data_path: "/def/vehicle/trailer_owned/sia.box/data.sii"
 }
 
 vehicle_accessory: .body
 {
-	data_path: "/def/vehicle/trailer_owned/scs.box/body/dryvan_x.sii"
+	data_path: "/def/vehicle/trailer_owned/sia.box/body/dryvan_x3.sii"
 }
 
 vehicle_accessory: .chassis

@@ -1,3 +1,3 @@
 [blue]Seogi ETS2 Xmas 2023 Event Ownable
 
-[red]It will function normally from 1.49
+[red]It will function normally from 1.53

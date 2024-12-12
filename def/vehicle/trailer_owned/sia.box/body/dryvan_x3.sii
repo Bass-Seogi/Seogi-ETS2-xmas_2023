@@ -1,6 +1,6 @@
 SiiNunit
 {
-accessory_trailer_body_data : dryvan_x.scs.box.body
+accessory_trailer_body_data : dryvan_x3.sia.box.body
 {
 	name: "@@bs_dryvan@@ Xmas 2023"
 	price: 8000

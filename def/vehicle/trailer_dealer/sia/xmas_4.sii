@@ -1,6 +1,6 @@
 SiiNunit
 {
-trailer : .xmas_2
+trailer : .xmas_4
 {
 	trailer_definition: trailer_def.scs.box.single_3.dryvan
 
@@ -28,12 +28,12 @@ trailer : .xmas_2
 
 vehicle_accessory: .data
 {
-	data_path: "/def/vehicle/trailer_owned/scs.box/data.sii"
+	data_path: "/def/vehicle/trailer_owned/sia.box/data.sii"
 }
 
 vehicle_accessory: .body
 {
-	data_path: "/def/vehicle/trailer_owned/scs.box/body/dryvan_x.sii"
+	data_path: "/def/vehicle/trailer_owned/sia.box/body/dryvan_x3.sii"
 }
 
 vehicle_accessory: .chassis
@@ -115,7 +115,7 @@ vehicle_wheel_accessory: .nuts3
 
 vehicle_paint_job_accessory: .paint_job
 {
-	data_path: "/def/vehicle/trailer/scs_box/dry_van_event/company_paint_job/xmas_2.sii"
+	data_path: "/def/vehicle/trailer/scs_box/dry_van_event/company_paint_job/xmas_4.sii"
 }
 
 }
