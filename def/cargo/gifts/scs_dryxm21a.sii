@@ -1,0 +1,15 @@
+SiiNunit
+{
+trailer_def : trailer_def.gifts.scs_dryxm21a
+{
+	trailer: trailer.scs_dryxm21a
+	gross_trailer_weight_limit: 29561
+	chassis_mass: 6000
+	body_mass: 0
+	axles: 3
+	volume: 100
+	body_type: _scs_21agits
+
+	mass_ratio[]: 1
+}
+}
